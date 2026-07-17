@@ -51,8 +51,4 @@ O projeto foi desenvolvido priorizando dispositivos móveis, garantindo compatib
 
 O website encontra-se em utilização pela empresa, auxiliando na divulgação da marca e na captação de novos clientes e revendedores.
 
----
 
-## Autor
-
-Samuel Zumba
